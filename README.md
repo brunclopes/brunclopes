@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bruno Lopes</h1>
 <h3 align="center">Engenheiro de Dados Jr</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunclopes" alt="brunclopes" /></a> </p>
-
 - 🔭 I’m currently working on **Dataside**
 
 - 👯 I’m looking to collaborate on **data engineering projects**
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brunclopes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brunclopes/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/brunclopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunclopes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
